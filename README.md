@@ -1,0 +1,79 @@
+# Pitbull & J Balvin – Hey Ma (Spanish Version) (feat. Camila Cabello)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.06] Dale, sin miedo
+[00:11.21] Arriésgate y sígueme el juego
+[00:13.58] Sola, creo
+[00:15.77] Di a tus amigas hasta luego
+[00:17.69] No des explicaciones, sólo vente
+[00:19.71] Que tu mente es malvada, eso yo lo sé
+[00:22.00] En tu mirada yo lo puedo ver
+[00:24.42] Te mata mi estilo y eso yo lo sé
+[00:40.42] 
+[00:26.69] Vamo' a romper la disco, rampapampam
+[00:28.96] Baila que no te he visto, pampapampam
+[00:31.12] Porque tú eras lo que yo soñé
+[00:33.33] No perdamos el tiempo, pampapampam
+[00:50.33] 
+[00:35.55] I need you
+[00:36.61] Hey mama, hey mama, hey mama, hey ma'
+[00:40.01] I need you
+[00:41.24] Hey mama, hey mama, hey mama, hey ma'
+[00:44.60] Girl, it's getting hotter
+[00:47.14] I can't take much more
+[00:49.12] I need you
+[00:50.47] Hey mama, hey mama, hey mama, hey ma'
+[00:53.81] I need you
+[00:58.81] 
+[01:03.63] Pa' lante con la libertad de Cuba
+[01:05.82] Y que la isla entera suba
+[01:08.13] De la Habana hasta Santiago
+[01:09.81] Todo mundo fumando puro y tomando tragos ¡Qué relajo!
+[01:12.54] El vago trabaja doble, so, ponte las pilas
+[01:15.38] Todo mundo quiere una Cubana, ponte en fila
+[01:17.40] Esto es un party, que siga, como sea
+[01:19.48] ¿Cómo qué? Como tú quieras, a tu manera
+[01:21.68] Are you single? Quítate las payamitas pa' que tú veas
+[01:24.55] No soy un mono vestido de seda
+[01:26.24] Esas mujeres están calientes y mucho más
+[01:28.29] Te queman por aquí, te queman por allá
+[01:47.29] 
+[01:30.34] No miraré atrás
+[01:32.51] Oh, no, ya no
+[01:34.49] No puedo respirar
+[01:36.85] Sin tu amor, baby, tu amor
+[01:49.85] 
+[01:39.02] I need you
+[01:40.12] Hey mama, hey mama, hey mama, hey ma'
+[01:43.44] I need you
+[01:44.88] Hey, mama hey mama, hey mama, hey ma'
+[01:48.04] Girl, it's getting hotter
+[01:50.48] I can't take much more
+[01:52.54] I need you
+[01:53.84] Hey mama, hey mama, hey mama, hey ma'
+[01:57.19] I need you
+[02:06.39] I need you
+[02:11.35] Hey
+[02:12.85] 
+[02:15.54] Si tocas mi piel
+[02:19.71] Tú saciarás mi sed
+[02:24.13] Oh, voy a enloquecer
+[02:28.26] Dime lo que vas a hacer
+[02:30.35] Dime lo que vas a hacer, no, no, no, no, no, no, no
+[02:55.85] 
+[02:33.75] I need you
+[02:34.60] Hey mama, hey mama, hey mama, hey ma'
+[02:37.66] I need you
+[02:38.90] Hey, mama, hey, mama, hey, mama, hey, ma'
+[02:42.39] Girl, it's getting hotter
+[02:44.86] I can't take much more
+[02:46.88] I need you
+[02:48.07] Hey mama, hey mama, hey mama, hey ma'
+[02:51.42] I need you
+[02:56.42] 
+[03:00.52] I need you, hey
+[03:04.67] Pa mi gente latina, stand up!
+[03:07.86] ¡Cuba!
+```
