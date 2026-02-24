@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Hey Ma (Spanish Version) (feat. Camila Cabello)",
+  "base_artist": "Pitbull & J Balvin",
+  "createdAt": "2026-02-24T07:35:54.769434Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version)",
+      "artist": "Pitbull feat. J Balvin & Camila Cabello",
+      "has_synced": true,
+      "path": "select/01_Hey_Ma_(Spanish_Version)_Pitbull_feat._J_Balvin_&_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version)",
+      "artist": "Pitbull & J Balvin feat. Camila Cabello",
+      "has_synced": true,
+      "path": "select/02_Hey_Ma_(Spanish_Version)_Pitbull_&_J_Balvin_feat._Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish version)",
+      "artist": "Pitbull & J Balvin feat. Camila Cabello",
+      "has_synced": true,
+      "path": "select/03_Hey_Ma_(Spanish_version)_Pitbull_&_J_Balvin_feat._Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version)",
+      "artist": "Pitbull, J Balvin, Camila Cabello",
+      "has_synced": true,
+      "path": "select/04_Hey_Ma_(Spanish_Version)_Pitbull,_J_Balvin,_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish version)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/05_Hey_Ma_(Spanish_version)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version)",
+      "artist": "Pitbull  & J Balvin",
+      "has_synced": true,
+      "path": "select/06_Hey_Ma_(Spanish_Version)_Pitbull_&_J_Balvin.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish version) (feat. Camila Cabello)",
+      "artist": "Pitbull & J Balvin",
+      "has_synced": true,
+      "path": "select/07_Hey_Ma_(Spanish_version)_(feat._Camila_Cabello)_Pitbull_&_J_Balvin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version) [feat. Camila Cabello]",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/08_Hey_Ma_(Spanish_Version)_[feat._Camila_Cabello]_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version) (feat. Camila Cabello)",
+      "artist": "J Balvin",
+      "has_synced": true,
+      "path": "select/09_Hey_Ma_(Spanish_Version)_(feat._Camila_Cabello)_J_Balvin.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version) (feat. Camila Cabello)",
+      "artist": "Pitbull",
+      "has_synced": true,
+      "path": "select/10_Hey_Ma_(Spanish_Version)_(feat._Camila_Cabello)_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version) (feat. Camila Cabello)",
+      "artist": "Pitbull  • J Balvin",
+      "has_synced": true,
+      "path": "select/11_Hey_Ma_(Spanish_Version)_(feat._Camila_Cabello)_Pitbull_•_J_Balvin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Ma [Spanish Version]",
+      "artist": "Pitbull & J Balvin",
+      "has_synced": true,
+      "path": "select/12_Hey_Ma_[Spanish_Version]_Pitbull_&_J_Balvin.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version)",
+      "artist": "Pitbull & J. Balvin",
+      "has_synced": true,
+      "path": "select/13_Hey_Ma_(Spanish_Version)_Pitbull_&_J._Balvin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Ma [Spanish Version]",
+      "artist": "Pitbull And J Balvin Feat. Camila Cabello",
+      "has_synced": true,
+      "path": "select/14_Hey_Ma_[Spanish_Version]_Pitbull_And_J_Balvin_Feat._Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hey Ma (Spanish Version)",
+      "artist": "Pitbull & J. Balvin feat. Camila Cabello",
+      "has_synced": true,
+      "path": "select/15_Hey_Ma_(Spanish_Version)_Pitbull_&_J._Balvin_feat._Camila_Cabello.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey Ma (Spanish Version)",
+      "artist": "Pitbull & J Balvin Ft. Camila Cabello",
+      "has_synced": false,
+      "path": "select/pl_01_Hey_Ma_(Spanish_Version)_Pitbull_&_J_Balvin_Ft._Camila_Cabello.txt"
+    }
+  ]
+}
